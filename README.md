@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![Snake animation](https://github.com/NiviCris/Nivicris/output/github-contribution-grid-snake.svg)
 <!--
 **Nivicris/Nivicris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
