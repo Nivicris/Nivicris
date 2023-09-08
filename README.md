@@ -6,13 +6,13 @@ transição de carreira e finalmente, encontrei minha verdadeira paixão e voca�
 
 📖 Bacharelado Tecnologia da Informação (2023-2026) <br>
 ⚡ Aluna da <a href="https://www.laboratoria.la/br" target="_blank">Laboratoria < L ></a> <br> 
+😄 Ela/Dela
 
 ##
 
 ### Ferramentas e Habilidades em desenvolvimento 🏹
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,figma,postgres,vscode,jest,firebase&perline=6)](https://skillicons.dev)
 
-<br>
 
 ##
 
