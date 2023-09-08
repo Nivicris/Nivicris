@@ -14,9 +14,6 @@ transição de carreira e finalmente, encontrei minha verdadeira paixão e voca�
 
 <br>
 
-<a href="https://github.com/nicoletsingas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiviCris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
 ##
 
 ### Entre em contato 📱
@@ -27,6 +24,7 @@ Ficarei muito feliz em discutir como posso agregar valor à sua equipe.
   <a href="mailto:niviacristinamiranda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/Nivicris/Nivicris/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
